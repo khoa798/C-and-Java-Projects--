@@ -3,7 +3,11 @@ Contains all projects on the Unix Timeshare finished during the course to showca
 
 Files Included:
 Recursion.java
+
 Search.java
+
 Simulation.java
+
 Dictionary ADT in Java (Linked List)
+
 Dictionary ADT in C (Hash Table)
