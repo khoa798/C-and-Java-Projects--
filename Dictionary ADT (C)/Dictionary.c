@@ -2,9 +2,6 @@
 // Dictionary.c
 // Dictionary
 // C version of Dictionary ADT
-// Khoa Hoang
-// klhoang
-// pa5
 //-----------------------------------------------------------------------------
 
 
