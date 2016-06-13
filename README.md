@@ -8,8 +8,6 @@ Recursion.java
 
 Search.java
 
-Simulation.java
-
 Dictionary ADT in Java (Linked List)
 
 Dictionary ADT in C (Hash Table)
