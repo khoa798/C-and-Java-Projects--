@@ -1,0 +1,10 @@
+Files:
+	Makefile
+	README
+	Dictionary.h
+	DictionaryTest.c
+	Dictionary.c
+	DictionaryClient.c
+	
+Patch Notes:
+ Implementation of Dictionary ADT in C with a hash table structure

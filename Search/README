@@ -1,0 +1,7 @@
+Files:
+	Search.java
+	README
+	Makefile
+
+Version 1.0:
+Specifies on which line the word was found based on the input file

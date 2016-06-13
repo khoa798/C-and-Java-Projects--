@@ -1,0 +1,13 @@
+Files:
+	README 
+	Dictionary.java 
+	DictionaryTest.java 
+	DuplicateKeyException.java 
+	KeyNotFoundException.java 
+	DictionaryInterface.java 
+	DictionaryClient.java 
+	Makefile
+
+Version 1.0:
+Creates an ADT in the form of linked lists for strings. Does several cool user functions.
+
