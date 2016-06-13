@@ -5,3 +5,4 @@ Files:
 
 Version 1.0:
 Specifies on which line the word was found based on the input file
+Implements the Binary Search and Merge Sort algorithms
