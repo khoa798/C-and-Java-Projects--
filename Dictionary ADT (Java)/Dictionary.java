@@ -1,9 +1,8 @@
 // Khoa Hoang
 // Dictionary.java
 // Dictionary
-// Creates an ADT in the form of linked lists for strings. Does several cool user functions.
-// pa3
-// CMPS 12b
+// Creates an ADT in the form of linked lists for strings.
+
 
 import java.util.Scanner;
 import java.io.*;
